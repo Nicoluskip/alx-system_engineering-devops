@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -ru --no-clobber --preserve=all *.html ..
+cp -ru *.html ..
